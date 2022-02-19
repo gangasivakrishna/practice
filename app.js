@@ -1,6 +1,6 @@
 const obj = {
   name:"Gowthami",
   email:"ngowthami86@gmail.com",
-  place:"chittor"
+  place:"chittor-517424"
 
 }
